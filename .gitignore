@@ -1,4 +1,5 @@
 node_modules
+.qodo
 *.exe
 ignore-*.*
 *.log

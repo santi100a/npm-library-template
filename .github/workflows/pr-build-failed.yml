@@ -27,5 +27,5 @@ jobs:
       - name: Label PR as "CI failed"
         uses: actions/labeler@v4
         with:
-          sync-label: true
+          sync-labels: true
           repo-token: ${{ secrets.GITHUB_TOKEN }}

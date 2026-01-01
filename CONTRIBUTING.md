@@ -2,9 +2,9 @@
 
 ## How to contribute
 
-You can [file an issue](https://github.com/<author>/<repo>/issues)
-or a [pull request](https://github.com/<author>/<repo>/pulls).
-You can also [start a discussion](https://github.com/<author>/<repo>/discussions).
+You can [file an issue](https://github.com/santi100a/dict-client/issues)
+or a [pull request](https://github.com/santi100a/dict-client/pulls).
+You can also [start a discussion](https://github.com/santi100a/dict-client/discussions).
 
 ## Contribution rules
 
